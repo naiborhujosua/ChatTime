@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "902504543446",
+    "firebase_url": "https://chattime-aa4dd.firebaseio.com",
+    "project_id": "chattime-aa4dd",
+    "storage_bucket": "chattime-aa4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902504543446:android:45a07d1b39cdd2cf",
+        "android_client_info": {
+          "package_name": "id.naiborhujosua.android.chattime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902504543446-ndb1u26piirjfu8hjo5oh8gj1pu5q37q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.naiborhujosua.android.chattime",
+            "certificate_hash": "1f5d43c7391860209593d5273de2d8230f2add3c"
+          }
+        },
+        {
+          "client_id": "902504543446-g6bqpqlpcslcg2km607cmc98simc7g6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmP8hRyutu9vlCSkiUP8oXiYLeX4nqcTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902504543446-g6bqpqlpcslcg2km607cmc98simc7g6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
