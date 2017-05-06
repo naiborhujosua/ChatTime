@@ -28,5 +28,5 @@ Make the configuration
 
 ## Future Features
 ```
-1. Interaction between many users
+1. Interaction between among users
 ```
