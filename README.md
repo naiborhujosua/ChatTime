@@ -23,11 +23,10 @@ Make the configuration
 1. Sending  Realtime Images and Messages
 ```
 ```
-2. Automatically Synchronized to the Social medai
+2. Automatically Synchronized to the Social media
 ```
 
 ## Future Features
 ```
 1. Interaction between many users
-```
 ```
