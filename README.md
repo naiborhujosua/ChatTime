@@ -1,6 +1,6 @@
 # ChatTime
-An Aplication for showing how to implement about using Firebase for RealTimeDatabase
-The App using Firebase for getting and devlivering message about the transaction of output such as messages and images.
+An Aplication for showing how to implement about using Firebase for RealTime Database
+The App using Firebase for getting and delivering message about the transaction of output such as messages and images.
 
 ## Install
 ```
@@ -12,7 +12,7 @@ The Flow of the Program
 
 ## Create Firebase Account
 
-Download [Firebase](https://firebase.google.com/) for building RealTime Database
+Create account on [Firebase](https://firebase.google.com/) for building RealTime Database
 
 Import the project
 
@@ -20,10 +20,14 @@ Make the configuration
 
 ## Features
 ```
-1. Sending Images and Messages
+1. Sending  Realtime Images and Messages
 ```
 ```
 2. Automatically Synchronized to the Social medai
 ```
 
-
+## Future Features
+```
+1. Interaction between many users
+```
+```
